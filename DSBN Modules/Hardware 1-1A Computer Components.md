@@ -8,9 +8,7 @@ Resources: [https://www.newegg.ca/](https://www.newegg.ca/)
 
  [http://www.tigerdirect.ca/](http://www.tigerdirect.ca/)
 
-Task: Create a slideshow with one page for each of the following computer hardware 
-
-components:
+Task: Create a slideshow with one page for each of the following computer hardware components:
 
 * Motherboard
 * Network Card
