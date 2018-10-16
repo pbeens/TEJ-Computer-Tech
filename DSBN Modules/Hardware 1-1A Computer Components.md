@@ -1,4 +1,4 @@
-# Computer Hardware 1-1<br>Introduction to Computer Components
+# Computer Hardware 1-1:<br>Introduction to Computer Components
 
 ## Resources
 
@@ -20,10 +20,10 @@ Create a slideshow with one page for each of the following computer hardware com
 * Monitor
 * Power Supply
 * Keyboard
-* CD/DVD Drive
-* Mouse 
+* CD/DVD/BluRay Drive
+* Mouse
 * Hard Drive/Solid State Drive
-* Printer 
+* Printer
 
 On the slide for each component include the following:
 
@@ -36,11 +36,11 @@ For the pricing, there will be a big range. The important part is to go look on 
 
 ## Self-assessment
 
-* I can visually identify the major components of a computer system 
+* I can visually identify the major components of a computer system
 * I can define the major components of a computer system
 * I know what a reasonable price is for each computer component
 
 ## Credit
 
-This assignment was created by the DSBN Computer Technology writing team, 2017-2018. 
+This assignment was created by the DSBN Computer Technology writing team, 2017-2018.
 
