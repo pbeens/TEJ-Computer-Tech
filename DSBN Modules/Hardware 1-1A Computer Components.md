@@ -1,12 +1,10 @@
-Computer Hardware 1-1
+# Computer Hardware 1-1 - Introduction to Computer Components
 
-Introduction to Computer Components
+Resources: 
 
-Resources: [https://www.newegg.ca/](https://www.newegg.ca/)
-
- [http://www.canadacomputers.com/](http://www.canadacomputers.com/)
-
- [http://www.tigerdirect.ca/](http://www.tigerdirect.ca/)
+* [https://www.newegg.ca/](https://www.newegg.ca/)
+* [http://www.canadacomputers.com/](http://www.canadacomputers.com/)
+* [http://www.tigerdirect.ca/](http://www.tigerdirect.ca/)
 
 Task: Create a slideshow with one page for each of the following computer hardware components:
 
