@@ -1,4 +1,4 @@
-# Computer Hardware 1-1 - Introduction to Computer Components
+# Computer Hardware 1-1<br>Introduction to Computer Components
 
 ## Resources
 
