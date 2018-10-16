@@ -12,25 +12,13 @@ Task: Create a slideshow with one page for each of the following computer hardwa
 
 components:
 
-<table>
-  <tr>
-    <td>* Motherboard
-* CPU
-* Heatsink
-* RAM
-* Power Supply
-* CD/DVD Drive
-* Hard Drive/Solid State Drive</td>
-    <td>* Network Card
-* Video Card
-* Case
-* Monitor
-* Keyboard
-* Mouse
-* Printer</td>
-  </tr>
-</table>
-
+|* Motherboard | * Network Card |
+|* CPU | * Video Card |
+|* Heatsink | * Case |
+|* RAM | * Monitor |
+|* Power Supply | * Keyboard |
+|* CD/DVD Drive | * Mouse |
+|* Hard Drive/Solid State Drive | * Printer |
 
 On the slide for each component include the following:
 
