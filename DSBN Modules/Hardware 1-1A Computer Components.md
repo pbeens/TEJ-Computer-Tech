@@ -14,20 +14,20 @@ components:
 
 <table>
   <tr>
-    <td>Motherboard
-CPU
-Heatsink
-RAM
-Power Supply
-CD/DVD Drive
-Hard Drive/Solid State Drive</td>
-    <td>Network Card
-Video Card
-Case
-Monitor
-Keyboard
-Mouse
-Printer</td>
+    <td>* Motherboard
+* CPU
+* Heatsink
+* RAM
+* Power Supply
+* CD/DVD Drive
+* Hard Drive/Solid State Drive</td>
+    <td>* Network Card
+* Video Card
+* Case
+* Monitor
+* Keyboard
+* Mouse
+* Printer</td>
   </tr>
 </table>
 
