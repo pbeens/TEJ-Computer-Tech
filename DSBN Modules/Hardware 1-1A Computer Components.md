@@ -13,6 +13,7 @@ Task: Create a slideshow with one page for each of the following computer hardwa
 components:
 
 |* Motherboard | * Network Card |
+| ------- | ------- |
 |* CPU | * Video Card |
 |* Heatsink | * Case |
 |* RAM | * Monitor |
